@@ -3,7 +3,7 @@
 namespace App\Http\Livewire\Cca;
 
 use Livewire\Component;
-use App\Models\comuna;
+use App\Models\Comuna;
 
 use Livewire\WithPagination;
 
