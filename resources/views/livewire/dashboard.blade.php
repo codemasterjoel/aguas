@@ -98,7 +98,6 @@
                 <div class="col-lg-6">
                 </div>
                 <div class="col-lg-5 ms-auto text-center mt-5 mt-lg-0" style="height: 400px">
-
                 </div>
               </div>
             </div>
